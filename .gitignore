@@ -1,0 +1,11 @@
+.terraform/
+terraform.tfvars
+*.tfstate
+*.tfstate.backup
+*.tfstate.*terraform.tfstate
+terraform.tfstate
+terraform.tfstate
+node_modules/
+wwwroot/lib/   
+Debug/
+db_data/
